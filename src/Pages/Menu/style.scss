@@ -1,0 +1,16 @@
+.meals-page{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    .meals-card{
+        background: #343F56;
+        color: white;
+        border: 3px solid #F54748;
+        border-radius: 20px;
+        padding: 16px;
+        width: 50%;
+        margin: 5px 0;
+        text-align: start;
+    }
+}
