@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from 'react';
+import React from 'react';
 import "./style.scss";
 import { useNavigate } from "react-router-dom";
 import './style.scss';
