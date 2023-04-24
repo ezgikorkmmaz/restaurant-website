@@ -8,11 +8,11 @@ A prototype of a restaurant menu project. Firstly customer get information about
 - &nbsp;Antd Radio, Dropdown, Menu components. 
 
 <h2>To start this project on your computer. </h2>
-- &nbsp;Open Visual Studio.
-- &nbsp;On the start window, select Clone a repository.
-- &nbsp;Enter or type the repository location(clone HTTPS from this repo), and then select the Clone button.
-- &nbsp;It will open a new window, then on your terminal, type 'npm install' to install all modules.
-- &nbsp;After you're ready type 'npm start' and you can see your project.
+- &nbsp;Open Visual Studio.<br>
+- &nbsp;On the start window, select Clone a repository.<br>
+- &nbsp;Enter or type the repository location(clone HTTPS from this repo), and then select the Clone button.<br>
+- &nbsp;It will open a new window, then on your terminal, type 'npm install' to install all modules.<br>
+- &nbsp;After you're ready type 'npm start' and you can see your project.<br>
 
 Note: I added a comment line and a console in MealsInfo page. I used antd Radio button and there is an issue with package or it could be something I wasn't able to fix. Ingredients selected quality values looks like they change in each selection but I store them in an array and make calculations according to it. If you can check from console you can see.
 
