@@ -31,6 +31,9 @@ const MenuPage = () =>  {
         handlePrice();
     };
 
+    //this line shows selected options even though it seems like there is one checked radio button
+    console.log(selectedOpts);
+
     const handleQuality = () => {
         const qualValues = selectedOpts.map((i) => i.quality === 'low' ? 10 : (i.quality === 'medium' ? 20 : 30));
         const sumOfAll = qualValues.reduce((partialSum, a) => partialSum + a, 0);
