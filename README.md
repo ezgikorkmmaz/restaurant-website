@@ -17,7 +17,3 @@ A prototype of a restaurant menu project. Firstly customer get information about
 
 <p>Note: </p>
 I added a comment line and a console in MealsInfo page. I used antd Radio button and there is an issue with package or it could be something I wasn't able to fix. Ingredients selected quality values looks like they change in each selection but I store them in an array and make calculations according to it. If you can check from console you can see.
-
-If you have any question or suggestion, feel free to ask.
-
-Hope to hear from you soon!
